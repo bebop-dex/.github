@@ -1,6 +1,6 @@
 # Public README
 
-⚠️ **Note**: This repository is **NOT public**. The code contained within is proprietary and intended for internal use only. To learn more about Bebop, please refer to the following information.
+⚠️ **Note**:  Bebop is not an open-sourced project. While some repositories may be public for your use, core repositories are private. The code contained within these private repositories is proprietary and intended for internal use only. _To learn more about Bebop, please refer to the following information._
 
 ## 💡 What is Bebop?
 Bebop is a decentralized aggregator offering 0% slippage and highly competitive pricing through our Private Market Maker (PMM) RFQ and JAM Solver Auction APIs. We are live on 12+ chains, providing users with guaranteed pricing, fast execution, and deep liquidity.
