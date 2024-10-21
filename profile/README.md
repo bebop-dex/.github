@@ -1,6 +1,7 @@
 # Public README
 
 ⚠️ **Note**:  Bebop is not an open-sourced project. While some repositories may be public for your use, core repositories are private. The code contained within these private repositories is proprietary and intended for internal use only. 
+
 _To learn more about Bebop, please refer to the following information._
 
 ## 💡 What is Bebop?
