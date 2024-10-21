@@ -1,6 +1,6 @@
 # Public README
 
-⚠️ **Note**:  Bebop is not an open-sourced project. While some repositories may be public for your use, core repositories are private. The code contained within these private repositories is proprietary and intended for internal use only. 
+⚠️ **Note**:  Bebop's smart contracts are open-sourced, but the front-end and back-end code remain private and are not publicly accessible. The proprietary code in these systems is intended for internal use only.
 
 _To learn more about Bebop, please refer to the following information._
 
